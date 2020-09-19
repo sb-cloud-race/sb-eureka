@@ -1,4 +1,4 @@
-package java.io.github.sbcloudrace.sbeureka;
+package io.github.sbcloudrace.sbeureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
